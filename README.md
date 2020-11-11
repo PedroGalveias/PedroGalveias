@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**PedroGalveias/PedroGalveias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PedroGalveias/PedroGalveias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pedro.r.galveias@pm.me
 
 
-![](https://github-readme-stats.vercel.app/api?username=sug0&count_private=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sug0&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=PedroGalveias&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGalveias&layout=compact)
