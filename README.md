@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hiya there 👋
 
 <!--
 **PedroGalveias/PedroGalveias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working at SavingsCoin
 - 🌱 I’m currently finishing my B.Eng at IPL ESTG
