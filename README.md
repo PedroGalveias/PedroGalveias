@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at SavingsCoin
 - 🌱 I’m currently finishing my B.Eng at IPL ESTG
-- 📚 I'm currently learning: Science of Consensus; Hyperleadger Sawtooth; ERC20; Polkadot; Substrate;
+- 📚 I'm currently learning: Consensus Algorithms; Hyperleadger Sawtooth; ERC20; Polkadot; Substrate;
 - 📫 How to reach me: pedro.r.galveias@pm.me
 
 
