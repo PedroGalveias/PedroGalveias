@@ -4,9 +4,9 @@
 **PedroGalveias/PedroGalveias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working at SavingsCoin
+- 🔭 I’m currently working at Emateereal
 - 🌱 I’m currently finishing my B.Eng at IPL ESTG
-- 📚 I'm currently learning: Consensus Algorithms; Hyperleadger Sawtooth; ERC20; Polkadot; Substrate;
+- 📚 I'm currently learning: Consensus Algorithms; Solidity; Polkadot; Substrate;
 - 📫 How to reach me: pedro.r.galveias@pm.me
 
 
