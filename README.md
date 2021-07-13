@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently working at Emateereal
-- 🌱 I’m currently finishing my B.Eng at IPL ESTG
-- 📚 I'm currently learning: Consensus Algorithms; Solidity; Polkadot; Substrate;
+- 📚 I'm currently learning: Consensus Algorithms; Solidity; Polkadot; Substrate; Rust
+- 🌱 Learning German
 - 📫 How to reach me: pedro.r.galveias@pm.me
 
 
