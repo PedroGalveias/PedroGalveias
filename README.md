@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working at Emateereal
-- 📚 I'm currently learning: Consensus Algorithms; Solidity; Polkadot; Substrate; Rust
+- 📚 I'm currently learning: Consensus Algorithms; Solidity; Polkadot; Rust; Substrate
 - 🌱 Learning German
 - 📫 How to reach me: pedro.r.galveias@pm.me
 
