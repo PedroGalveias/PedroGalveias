@@ -4,7 +4,7 @@
 **PedroGalveias/PedroGalveias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working at Emateereal
+- 🔭 I’m currently doing an internship at Verum Capital.
 - 📚 I'm currently learning: Consensus Algorithms; Solidity; Polkadot; Rust; Substrate
 - 🌱 Learning German
 - 📫 How to reach me: pedro.r.galveias@pm.me
