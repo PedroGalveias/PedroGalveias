@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently a Software Engineer @ Verum Capital.
-- 📚 I'm currently learning: Rust; Substrate; Polkadot.
+- 📚 I'm currently learning: Rust; Substrate; Polkadot; Algorand
 - 🌱 Learning German.
 - 📫 How to reach me: galveias@verum.capital (work e-mail) or pedro.r.galveias@pm.me (personal e-mail).
 
