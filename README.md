@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m a Software Engineer.
-- 📚 I'm currently learning: Rust; Go; Substrate & the Polkadot network.
+- 📚 I'm currently learning: Rust.
 - 🌱 Learning German & Japanese.
 - 📫 How to reach me: pedro.r.galveias@pm.me.
 
