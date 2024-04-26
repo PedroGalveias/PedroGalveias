@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m a Software Engineer.
-- 📚 I'm currently learning: Rust.
+- 📚 I'm currently learning: Rust & Electric Guitar.
 - 🌱 Learning German & Japanese.
 - 📫 How to reach me: pedro.r.galveias@pm.me.
 
