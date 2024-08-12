@@ -8,7 +8,7 @@
 - 📚 I'm currently learning: Rust & Electric Guitar.
 - 🌱 Learning German & Japanese.
 - 📫 How to reach me: pedro.r.galveias@pm.me.
-- Big into Coffee & Running.
+- ☕ Into Specialty Coffee & Running.
 
 ![](https://github-readme-stats.vercel.app/api?username=PedroGalveias&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGalveias&layout=compact)
