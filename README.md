@@ -6,7 +6,7 @@
 
 - 🔭 I’m a Software Engineer @ KPMG
 - 📚 I'm currently learning: Rust
-- 🧊 Web3 nerd
+- 🧊 Blockchain nerd
 - 🌱 Learning German, Japanese & Electric Guitar
 - 📫 How to reach me: pedro.r.galveias@pm.me
 - ☕ Into Specialty Coffee, Green Tea, Sake & Running
