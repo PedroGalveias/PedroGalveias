@@ -9,7 +9,7 @@
 - 🧊 Blockchain nerd
 - 🌱 Learning German, Japanese & Electric Guitar
 - 📫 How to reach me: pedro.r.galveias@pm.me
-- ☕ Into Specialty Coffee, Green Tea, Sake & Running
+- ☕ Into Speciality Coffee, Green Tea, Sake & Running
 
 ![](https://github-readme-stats.vercel.app/api?username=PedroGalveias&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGalveias&layout=compact)
