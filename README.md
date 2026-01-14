@@ -11,5 +11,5 @@
 - 📫 How to reach me: pedro.r.galveias@pm.me
 - ☕ Into Speciality Coffee, Green Tea, Sake & Running
 
-![](https://github-readme-stats.vercel.app/api?username=PedroGalveias&count_private=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGalveias&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api?username=PedroGalveias&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGalveias&layout=compact)-->
