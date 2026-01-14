@@ -4,7 +4,7 @@
 **PedroGalveias/PedroGalveias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m a Software Engineer @ KPMG
+- 🔭 I’m a Software Engineer @ KPMG Switzerland
 - 📚 I'm currently learning: Rust
 - 🧊 Blockchain nerd
 - 🌱 Learning German, Japanese & Electric Guitar
