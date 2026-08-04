@@ -5,9 +5,9 @@
 
 
 - 🔭 I’m a Software Engineer
-- 📚 I'm currently learning: Rust
+- 📚 I'm currently a master's student at USI Switzerland.
 - 🧊 Blockchain nerd
-- 🌱 Learning German, Japanese & Electric Guitar
+- 🌱 Learning Rust Programming Language, German, Japanese & Electric Guitar
 - 📫 How to reach me: pedro.r.galveias@pm.me
 - ☕ Into Speciality Coffee, Green Tea, Sake & Trail Running
 
