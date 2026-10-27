@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m a Software Engineer
-- 📚 I'm currently a master's student at USI Switzerland.
+- 📚 I'm currently a master's student at USI Università della Svizzera italiana
 - 🧊 Blockchain nerd
 - 🌱 Learning Rust Programming Language, German, Japanese & Electric Guitar
 - 📫 How to reach me: pedro.r.galveias@pm.me
